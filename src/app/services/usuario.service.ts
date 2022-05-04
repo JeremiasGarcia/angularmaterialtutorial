@@ -9,7 +9,7 @@ export class UsuarioService {
   listUsuarios: Usuario[] = [
     {usuario: "jgarcia", nombre: 'Jeremias', apellido: "Garcia", sexo: 'Masculino'},
     {usuario: "fcorvalan", nombre: 'Franco', apellido: "Corvalan", sexo: 'Masculino'},
-    {usuario: "arossi", nombre: 'Antonella', apellido: "Rossi", sexo: 'Femenino'}
+    {usuario: "agarcia", nombre: 'Antonella', apellido: "Garcia", sexo: 'Femenino'}
   ];
   
   constructor() { }
